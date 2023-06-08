@@ -1,3 +1,7 @@
+# ignoring wp plugins dir
+# remove this line if you want to track plugins
+/project/wp-content/plugins/*
+
 # ignoring db
 /db_data/*
 
@@ -19,9 +23,6 @@
 /project/readme.html
 /project/wp-*.php
 /project/xmlrpc.php
-
-# ignoring akismet plugin
-/project/wp-content/plugins/akismet
 
 # Configuration
 /project/wp-config.php
