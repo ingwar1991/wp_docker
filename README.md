@@ -4,7 +4,7 @@ Pure wordpress+mysql+phpmyadmin in docker setup
 #### Ignoring WP plugins dir
 For my own purposes I added wp plugins dir to .gitignore
 
-You'll need to remove the first entry from the file
+You'll need to remove these entries from the file
 > /project/my_plugins
 
 > /project/wp-content/plugins/*
