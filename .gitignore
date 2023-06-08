@@ -1,5 +1,6 @@
 # ignoring wp plugins dir
 # remove this line if you want to track plugins
+/project/my_plugins
 /project/wp-content/plugins/*
 
 # ignoring db
